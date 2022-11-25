@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">workin</string>
+    <string name="company">Company:</string>
+    <string name="description">Description</string>
+    <string name="enter_shift">enter shift</string>
+    <string name="hello_hard_worker">Hello hard worker!</string>
+    <string name="view_shifts">view shifts</string>
+    <string name="please_choose_an_option">Please choose an option:</string>
+    <string name="start_time">Start Time:</string>
+</resources>

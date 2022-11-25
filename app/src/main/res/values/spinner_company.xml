@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="companies_array">
+        <item>מזרחי</item>
+        <item>הראל</item>
+        <item>מזרחי + הראל</item>
+    </string-array>
+</resources>
